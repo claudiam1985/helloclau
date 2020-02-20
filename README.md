@@ -1,1 +1,3 @@
-# helloclau
+# maven-project
+
+Simple Maven Project
